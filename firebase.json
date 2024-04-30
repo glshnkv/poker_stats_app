@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"poker-stats-app","appId":"1:780307040475:android:5992307b205d49e310a4fe","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"poker-stats-app","configurations":{"android":"1:780307040475:android:5992307b205d49e310a4fe","ios":"1:780307040475:ios:3bb4364caac6cd2e10a4fe"}}}}}}

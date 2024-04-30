@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "780307040475",
+    "project_id": "poker-stats-app",
+    "storage_bucket": "poker-stats-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780307040475:android:5992307b205d49e310a4fe",
+        "android_client_info": {
+          "package_name": "com.pokeuq.app.itul"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiPjwwd01u7c9kUdAF53DjL_sXNoIqE9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
